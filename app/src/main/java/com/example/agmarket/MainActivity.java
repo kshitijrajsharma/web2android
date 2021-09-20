@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         webview.getSettings().setJavaScriptEnabled(true);
         webview.getSettings().setDomStorageEnabled(true);
         webview.setOverScrollMode(WebView.OVER_SCROLL_NEVER);
-        webview.loadUrl("https://agmarketnepal.herokuapp.com/");
+        webview.loadUrl("https://5a2b-103-10-31-102.ngrok.io/");
 
     }
 
